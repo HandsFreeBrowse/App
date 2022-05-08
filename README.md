@@ -35,9 +35,15 @@ Website:
 We plan on making this project more accurate by training the ML model extensively, to produce a smoother app. We also have plans to implement this program on mobile as well.
 
 ## How to run
+```
 Make sure you have python, and anocanda installed.
+```
+```
 Download the Zip file from https://handsfreee.web.app/
+```
+```
 Unzip
+```
 ```
 conda create --name handsfree python=3.8.5
 ```
