@@ -33,3 +33,29 @@ Website:
 - We improved our knowledge on how to implement a classification system using "Mediapipe" and "OpenCV".
 ## 💭 What's next for HandsFreeBrowse 💭
 We plan on making this project more accurate by training the ML model extensively, to produce a smoother app. We also have plans to implement this program on mobile as well.
+
+## How to run
+Make sure you have python, and anocanda installed.
+Download the Zip file from https://handsfreee.web.app/
+Unzip
+```
+conda create --name handsfree python=3.8.5
+```
+```
+conda activate handsfree
+```
+```
+pip install -r requirements.txt
+```
+```
+conda install PyAudio
+```
+```
+conda install pywin32
+```
+cd to src folder
+```
+```
+Python HandsFree.py
+```
+
