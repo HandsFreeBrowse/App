@@ -53,6 +53,7 @@ conda install PyAudio
 ```
 conda install pywin32
 ```
+```
 cd to src folder
 ```
 ```
